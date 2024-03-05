@@ -1,9 +1,9 @@
 # Nayara Holanda
+Front-End Developer 👩‍💻
 
 ## Olá pessoal 👋
-Sou uma Junior Front-End Developer 👩‍💻
 
-Já possuo habilidades de HTML, CSS, Sass, Bootstrap, JavaScript. Fiz também cursos de layouts responsivos, git, acessibilidade web e performance web. E agora estou mergulhando no mundo React JS, que possibilita trabalhar de forma declarativa, eficiente e flexível.
+Tenho experiência sólida em HTML, CSS e JavaScript. Além de dominar ferramentas como Tailwind CSS, Styled Components, Stitches CSS, Sass e Bootstrap. Fiz também cursos de layouts responsivos, git, acessibilidade web e performance web. Atualmente estou imersa no universo React e Next.js, explorando suas capacidades de desenvolvimento declarativo, eficiente e flexível.
 
  <br/> :yellow_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros, jogos e seriados
