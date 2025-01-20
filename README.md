@@ -3,7 +3,8 @@ Front-End Developer 👩‍💻
 
 ## Olá pessoal 👋
 
-Tenho experiência sólida em HTML, CSS e JavaScript. Além de dominar ferramentas como Tailwind CSS, Styled Components, Stitches CSS, Sass e Bootstrap. Fiz também cursos de layouts responsivos, git, acessibilidade web e performance web. Atualmente estou imersa no universo React e Next.js, explorando suas capacidades de desenvolvimento declarativo, eficiente e flexível.
+Atualmente, atuo como desenvolvedora front-end, com mais de três anos de experiência, focada em tecnologias como React, Next.js, TypeScript, HTML e CSS. Lidero uma equipe de desenvolvedores responsável pela criação e otimização de campanhas de email marketing, garantindo responsividade e ampla compatibilidade com as diversas plataformas existentes. Além disso, sou responsável pelo desenvolvimento e manutenção de ferramentas internas e implementação de banners dinâmicos. Minha paixão está na inovação, na superação de desafios e no crescimento profissional contínuo.
+Estou sempre em busca de expandir meus conhecimentos e aplicar minhas habilidades em novos e empolgantes projetos.
 
  <br/> :yellow_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros, jogos e seriados
